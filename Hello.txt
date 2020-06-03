@@ -1,1 +1,2 @@
-Hello new repository.
+This hello file is being pointed by the feature branch.
+And then we shall try to merge with the master

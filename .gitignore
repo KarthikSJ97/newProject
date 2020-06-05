@@ -1,2 +1,6 @@
 #Ignore app.txt file
 app.txt
+
+#Ignore JAR and WAR files
+*.jar
+*.war

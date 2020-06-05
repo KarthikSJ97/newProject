@@ -1,3 +1,4 @@
 Adding the music.txt as an issue has been raised by the end user.
 Text file regarding different types of music and closing the issue #1 from the commit message
 Making changes in this file, also testing rebase with merge.
+Updating master branch before testing rebase

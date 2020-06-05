@@ -4,3 +4,6 @@ app.txt
 #Ignore JAR and WAR files
 *.jar
 *.war
+
+#Ignore IDE generated files
+.idea

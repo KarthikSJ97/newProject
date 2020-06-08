@@ -1,3 +1,4 @@
 This hello file is being pointed by the feature branch.
-And then we shall try to merge with the master.
+And then we shall try to merge the master branch with this new changes.
 Updating hello.txt file, push and then pop the stash in master branch
+New Line Added.
